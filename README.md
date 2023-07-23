@@ -2,8 +2,7 @@
 <h1 align="center">Hello 👋, I'm Bharathvaasan</h1>
 <h3 align="center">A curious coder from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Bharathvaasan369/Bharathvaasan369/assets/117265339/fa75c4de-553a-4bf5-b685-7c132ffb95d1)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/Bharathvaasan369/Bharathvaasan369/blob/main/Coading.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathvaasan369&label=Profile%20views&color=0e75b6&style=flat" alt="bharathvaasan369" /> </p>
 
